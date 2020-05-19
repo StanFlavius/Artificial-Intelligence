@@ -1,0 +1,2 @@
+razvan < mihnea v dante v ismail > alex >> ela ^ oana ^ radu
+EXECUTION TIME: 2711.6053104400635 ms
